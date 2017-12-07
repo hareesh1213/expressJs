@@ -1,0 +1,30 @@
+1) to clone git repository to local machine - git remote add origin 'https://github.com/hareesh1213/expressJs.git'
+
+2) To pull files from remote to local machine - git pull origin master
+
+3) To check which files are changed in local machine - git status
+
+4) To ready files for commit to git -  git add "file_name" //remove quotes
+
+5) If we want to add all changed files to ready for commit -  git add -A
+
+6) To commit - git commit -a -m "comment for this commit" 
+	/* -a = for commit all files and
+	   -m = for message to commit */
+
+7) To create branch - git branch "branch name" //remove quotes
+
+8) To switch branch from one to another - git checkout "branch name to switch" //remove quotes
+
+9) To list the files - ls
+
+10) To merge branch to master branch - git merge 'merging branch name' //remove quotes
+
+11) To read file data - cat 'File name' // remove quotes
+
+12) To check file changes with other branch - git rebase "Branch name" // remove quotes
+
+13) difference between "pull" and "fetch" is "pull" = "fetch"+"merge"
+
+
+
