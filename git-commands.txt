@@ -1,0 +1,4 @@
+1) to clone git repository to local machine - git remote add origin 'https://github.com/hareesh1213/expressJs.git'
+
+2) To pull files from remote to local machine - git pull origin master
+
