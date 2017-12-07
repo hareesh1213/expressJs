@@ -26,5 +26,7 @@
 
 13) difference between "pull" and "fetch" is "pull" = "fetch"+"merge"
 
+	To push your files into your remote repository you need ssh-key
 
+14) To generate SSH key - "ssh-keygen" // remove quotes
 
